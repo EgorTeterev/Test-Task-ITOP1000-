@@ -3,6 +3,8 @@
   height: 75px;
   background-color: aqua;
   margin: 5px;
+  border-radius: 30px;
+  padding: 10px;
 }
 .ratesBlock{
   display: flex;
