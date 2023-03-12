@@ -1,0 +1,15 @@
+.input{
+  width: 300px;
+  height: 75px;
+  background-color: aqua;
+  margin: 5px;
+}
+.ratesBlock{
+  display: flex;
+  flex-direction: column;
+}
+.select{
+  width: 65px;
+  height: 40px;
+  margin: 5px;
+}
